@@ -20,7 +20,7 @@ Skills: PYTHON/ BOOTSTRAP/ NODE.JS / REACT / JS / HTML / CSS
 
 
 
-- 💬 Ask me about **HTML5, CSS3, JS, Bootstrap**
+- 💬 Ask me about **HTML5, CSS3, JS, Bootstrap, Python, C, C++ , Data Structure, Algorithm **
 
 - 📫 How to reach me **shorif8195@gmail.com**
 
